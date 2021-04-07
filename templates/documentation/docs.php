@@ -1,3 +1,7 @@
+<?php 
+// TODO:docs
+?>
+
 <section class="mb-4">
     <h2 id="test-link-item-1" class="documentation-link">Text link item one</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid dubitas igitur mutare principia naturae? Tecum optime, deinde etiam cum mediocri amico. Honesta oratio, Socratica, Platonis etiam. Omnes enim iucundum motum, quo sensus hilaretur. Si longus, levis. Quid ad utilitatem tantae pecuniae? </p>

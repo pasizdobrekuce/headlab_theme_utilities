@@ -1,0 +1,17 @@
+{
+    "name": "headlab/headlab-theme-utilities",
+    "description": "Utilities for Headlab themes",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Petar Ratkovic",
+            "email": "ratkovicpetar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

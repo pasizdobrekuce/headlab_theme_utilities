@@ -1,0 +1,19 @@
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.text-decoration-none_hover {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}

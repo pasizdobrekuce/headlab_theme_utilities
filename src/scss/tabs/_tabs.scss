@@ -1,0 +1,41 @@
+.nav-tabs {
+    border: none;
+
+    .nav-link {
+        text-decoration: none;
+        border: none;
+        border-radius: none;
+
+        &:focus {
+            box-shadow: none;
+            outline: none;
+        }
+    }
+}
+
+.tab-pane {
+    background: $white;
+    border-radius: 4px;
+
+    h2,
+    h3 {
+        margin-top: 0;
+    }
+
+    p.submit {
+        margin-top: 1.5rem;
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    a {
+        text-decoration: none;
+        outline: none;
+        box-shadow: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
